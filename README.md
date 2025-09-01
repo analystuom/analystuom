@@ -2,14 +2,6 @@
 
 I am a data analyst who loves researching topics such as Modern Data Stacks, Artificial Intelligence, Data Science and Data Governance practices for enterprise use cases. Currently I am polishing my data skills while trying to staying at the forefront of the AI landscape.
 
-**Fun facts:**
-
-💼 Former Strategy Consultant turned Data Science Practioneers with experiences in Banking and Finance industry
-
-🎓 Master of Data Science graduate from the University of Manchester
-
-💻 Currently writing SQL in UPPERCASE!
-  
 ## Skills:
 
 #### Programming Languages:
