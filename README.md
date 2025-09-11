@@ -1,6 +1,6 @@
 ### Hi there, I'm Mike 🤝
 
-I am a data analyst who loves researching topics such as Modern Data Stacks, Artificial Intelligence, Data Science and Data Governance practices for enterprise use cases. Currently I am polishing my data skills while trying to staying at the forefront of the AI landscape.
+I am a data analyst and a consultant who loves researching topics such as Modern Data Stacks, Artificial Intelligence, Data Science and Data Governance practices for enterprise use cases. Currently I am polishing my data skills while trying to staying at the forefront of the AI landscape.
 
 ## Skills:
 
